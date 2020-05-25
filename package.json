@@ -1,0 +1,14 @@
+{
+  "name": "careecon_documents",
+  "version": "1.0.0",
+  "description": "Careecon Doc",
+  "author": "Tsubasa Ryuto",
+  "private": true,
+  "devDependencies": {
+    "vuepress": "^1.5.0"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  }
+}
