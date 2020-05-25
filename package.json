@@ -1,6 +1,7 @@
 {
   "name": "careecon_documents",
   "version": "1.0.0",
+  "main": "index.js",
   "description": "Careecon Doc",
   "author": "Tsubasa Ryuto",
   "private": true,
